@@ -69,6 +69,12 @@ nav {
     color: #FFFFFF;
 }
 
+iframe {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto; /* відео по центру */
+}
 
 main {
     position: relative;
